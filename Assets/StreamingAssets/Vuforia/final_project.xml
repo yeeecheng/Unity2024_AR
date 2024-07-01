@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zombie" size="512.000000 341.333344" />
+    <ImageTarget name="skeleton" size="512.000000 520.935425" />
+    <ImageTarget name="rock_skeleton" size="512.000000 602.854004" />
+    <ImageTarget name="element" size="512.000000 578.111938" />
+    <ImageTarget name="giant" size="512.000000 402.727509" />
+  </Tracking>
+</QCARConfig>
